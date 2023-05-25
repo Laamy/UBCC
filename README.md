@@ -1,5 +1,5 @@
-# UCMC
-Universal Client Modules Convention
+# UBCC
+Universal Bedrock Client Convention
 </br>why not make minecraft clients controls & module names universal
 </br> push ur suggestions
 
